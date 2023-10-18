@@ -8,7 +8,8 @@ The game places the player in the role of a chef. The objective of the game is t
 ![gameplay](https://github.com/Carbine28/kitchen-chaos/blob/main/extra/undercooked.gif)
 
 ## Installation
-
+You can find the latest version of the game in the release section. <br/> Download the .7 zip file and extract the folder. <br/>
+Run the executable inside the folder to play the game
 
 ## Key Skills I learnt making this project
 - Animations in Unity
