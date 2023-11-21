@@ -1,6 +1,6 @@
 ﻿# Kitchen Chaos
 
-A fast-paced cooking game I developed using Unity game engine.
+A fast-paced cooking game developed using Unity game engine.
 
 The game places the player in the role of a chef. The objective of the game is to deliver as many orders as the player can within the time limit. Each order successfully delivered provides bonus time for the player. The player makes a variety of recipies, mostly burgers of varying ingredients.
 <br/><br/>
